@@ -18,4 +18,5 @@ Programming refers to a technological process for telling a computer which tasks
 Human manually type documents with bunch of repetitive inputs but with help of programming an application would help to reduce the work load of an employee or a person.
 
 # fundamentals
-1. [variable-declaration]()
+1. [variable-declaration](https://www.w3schools.com/java/java_variables.asp)
+2. [java-data-types](https://www.w3schools.com/java/java_data_types.asp)
